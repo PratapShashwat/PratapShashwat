@@ -45,12 +45,6 @@
 </div>
 
 ---
-### 📊 3D Contribs
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratapShashwat&theme=tokyonight" />
-</div>
----
-
 ### 🐍 Contribution Snake
 <img src="https://github.com/PratapShashwat/PratapShashwat/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
